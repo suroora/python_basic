@@ -1,0 +1,7 @@
+x = (111, 22, 333, 444, 555, 666, 777, 88)
+print(x)
+tup = list(x)
+tup.append(100)
+tup.insert(3,"python")
+print(tup)
+print(x[-1])
